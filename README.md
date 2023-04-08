@@ -24,6 +24,6 @@ With the help of sqlalchemy, we can store todos in a MySQL database.
   <li>Execute `pip install -r requirements.txt`</li>
   <li>open swagger ui in http://localhost:8000/docs</li><br/>
 
-###Thankyou for viiting my github###<br/>
+###Thankyou for visiting my github###<br/>
 @BhaskarGuthula
 
